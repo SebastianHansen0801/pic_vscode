@@ -3,7 +3,7 @@
         {
             "name": "Windows",
             "includePath": [
-                "${workspaceFolder}",
+                "${workspaceFolder}/**",
                 "C:/Program Files/Microchip/xc8/v2.35/pic/include/**",
                 "C:/Program Files/Microchip/xc8/v2.35/pic/include/legacy/**",
                 "C:/WinAVR-20100110/avr/include/**"
@@ -12,9 +12,9 @@
             "intelliSenseMode": "clang-x64",
             "browse": {
                 "path": [
-                    "${workspaceFolder}",
-                    "C:/Program Files/Microchip/xc8/v2.35/pic/include/*",
-                    "C:/Program Files/Microchip/xc8/v2.35/pic/include/legacy/*",
+                    "${workspaceFolder}/**",
+                    "C:/Program Files/Microchip/xc8/v2.35/pic/include/**",
+                    "C:/Program Files/Microchip/xc8/v2.35/pic/include/legacy/**",
                     "C:/WinAVR-20100110/avr/include/**"
                 ],
                 "databaseFilename": "",

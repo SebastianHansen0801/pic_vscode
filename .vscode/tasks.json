@@ -9,7 +9,7 @@
             "windows": {
                 "command": ".\\Build.cmd",
                 "args": [
-                    "16f84" // Update this to Chip you're targeting.
+                    "12f1612" // Update this to Chip you're targeting.
                 ]
             }
         },
@@ -19,7 +19,7 @@
             "windows": {
                 "command": ".\\Build-Samples",
                 "args": [
-                    "16f84" // Update this to Chip you're targeting.
+                    "12f1612" // Update this to Chip you're targeting.
                 ]
             }
         }
