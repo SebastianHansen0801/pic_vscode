@@ -1,4 +1,4 @@
 
 mkdir output
 
-%XC_DIR%\xc8.exe --chip=%1 --outdir=".\output" ".\main.c"
+"C:/Program Files/Microchip/xc8/v2.35/pic/bin/xc8.exe" --chip=12F1612 --outdir=".\output" ".\main.c"
